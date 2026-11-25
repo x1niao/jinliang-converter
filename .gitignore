@@ -1,0 +1,13 @@
+# 大型构建工具链（不入库）
+jdk-17*/
+sdk/
+dl/
+out/
+edge-profile*/
+preview/edge-profile*/
+*.zip
+
+# 临时文件
+*.pyc
+__pycache__/
+.DS_Store
